@@ -1,2 +1,2 @@
 ### Lisp Example
-Just trying to lisp...
+Basic GUI made with CommonLisp and ltk
