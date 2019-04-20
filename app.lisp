@@ -1,7 +1,0 @@
-(defmacro setTo10(num)
-  (setq num 10)
-  (print num)
-)
-(defvar y 25)
-(print y)
-(setTo10 y)
