@@ -1,9 +1,3 @@
-(defpackage :hello-world
-  (:use :common-lisp :ltk)
-  (:export #:main))
-
-(in-package :hello-world)
-
 (defun main ()
   (setf *debug-tk* nil)
   (with-ltk ()
